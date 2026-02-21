@@ -61,15 +61,27 @@ Effekte (Siehe Gifs):
 ----------------------
 PS1 Boot Animation – Startanimation mit Glow-In, weißem Blitz und sanftem Fade-Out.
 
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/PS1%20Boot%20Animation.gif
+
 Smooth Breathe – Alle Symbole atmen gemeinsam in einem 4-Sekunden-Zyklus.
+
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Smooth%20Breathe.gif
 
 Color Bounce – Farben rotieren vorwärts und rückwärts durch die Symbole.
 
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Color%20Bounce.gif
+
 Sparkle White – Weißes Funkeln über alle LEDs mit sanftem Ausfaden.
+
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Sparkle%20white.gif
 
 Sparkle Segmented – Funkeln innerhalb der festen Symbolfarben (Pink, Blau, Rot, Grün).
 
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Sparkle%20Segmented.gif
+
 Slow Fade Chase – Symbole faden weich mit Überblendung nacheinander ein und aus.
+
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Slow%20Fade%20Chase.gif
 
 Bonus:
 ------
