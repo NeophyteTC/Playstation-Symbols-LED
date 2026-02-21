@@ -10,19 +10,27 @@ Effects (see GIFs):
 -------------------
 PS1 Boot Animation – Startup animation with smooth glow-in, short white flash and gentle fade-out.
 
-https://gifyu.com/image/bvcmp
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/PS1%20Boot%20Animation.gif
 
 Smooth Breathe – All symbols breathe together in a 4-second cycle.
 
-
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Smooth%20Breathe.gif
 
 Color Bounce – Colors rotate forward and backward through the symbols.
 
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Color%20Bounce.gif
+
 Sparkle White – White sparkling across all LEDs with smooth fading.
+
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Sparkle%20white.gif
 
 Sparkle Segmented – Sparkling stays within the fixed symbol colors (Pink, Blue, Red, Green).
 
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Sparkle%20Segmented.gif
+
 Slow Fade Chase – Symbols softly fade in and out one after another with smooth crossfade transitions.
+
+https://github.com/NeophyteTC/Playstation-Symbols-LED/blob/main/Slow%20Fade%20Chase.gif
 
 bonus:
 ------
@@ -52,8 +60,6 @@ Hier zu finden: https://makerworld.com/de/models/446148-playstation-symbols-ligh
 Effekte (Siehe Gifs):
 ----------------------
 PS1 Boot Animation – Startanimation mit Glow-In, weißem Blitz und sanftem Fade-Out.
-
-https://gifyu.com/image/bvcmp
 
 Smooth Breathe – Alle Symbole atmen gemeinsam in einem 4-Sekunden-Zyklus.
 
