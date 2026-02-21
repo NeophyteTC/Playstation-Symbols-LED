@@ -10,7 +10,11 @@ Effects (see GIFs):
 -------------------
 PS1 Boot Animation – Startup animation with smooth glow-in, short white flash and gentle fade-out.
 
+https://gifyu.com/image/bvcmp
+
 Smooth Breathe – All symbols breathe together in a 4-second cycle.
+
+
 
 Color Bounce – Colors rotate forward and backward through the symbols.
 
@@ -48,6 +52,8 @@ Hier zu finden: https://makerworld.com/de/models/446148-playstation-symbols-ligh
 Effekte (Siehe Gifs):
 ----------------------
 PS1 Boot Animation – Startanimation mit Glow-In, weißem Blitz und sanftem Fade-Out.
+
+https://gifyu.com/image/bvcmp
 
 Smooth Breathe – Alle Symbole atmen gemeinsam in einem 4-Sekunden-Zyklus.
 
