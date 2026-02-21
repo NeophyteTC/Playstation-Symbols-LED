@@ -6,8 +6,8 @@
 #define BTN_BRIGHT 3
 
 #define NUM_LEDS 27
-#define DEFAULT_BRIGHTNESS 150
-#define NIGHT_BRIGHTNESS 25
+#define DEFAULT_BRIGHTNESS 180
+#define NIGHT_BRIGHTNESS 40
 #define MIN_BRIGHTNESS 40
 #define MAX_MILLIAMPS 500
 
@@ -135,13 +135,21 @@ void handleButtons() {
     }
   }
 
-  if (stableState == LOW && !longPressHandled) {
-    if (millis() - pressStart > 3000) {
-      nightModeActive = !nightModeActive;
-      targetBrightness = nightModeActive ? NIGHT_BRIGHTNESS : currentBrightness;
-      longPressHandled = true;
+// LONG PRESS (3 Sekunden)
+if (stableState == LOW && !longPressHandled) {
+  if (millis() - pressStart > 3000) {
+
+    nightModeActive = !nightModeActive;
+
+    if (nightModeActive) {
+      targetBrightness = NIGHT_BRIGHTNESS;
+    } else {
+      targetBrightness = currentBrightness;
     }
+
+    longPressHandled = true;
   }
+}
 
   lastModeState = reading;
 
